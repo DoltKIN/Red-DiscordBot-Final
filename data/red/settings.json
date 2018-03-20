@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "188577032005746688",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "[]"
+    ],
+    "TOKEN" : "NDI1MjQ1MjE2Mzc5ODk1ODA5.DZJXCw.k-u5aVoQKmTaOb3YUYCY-P_fZfg",
+    "default" : {
+        "ADMIN_ROLE" : "Khoi's Fat Role!",
+        "MOD_ROLE" : "The Ling Bullies",
+        "PREFIXES" : []
+    }
+}
